@@ -1,16 +1,180 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ameer-rah/ameer-rah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0ea5e9,50:7c3aed,100:111827&text=Ameer%20Rahman&fontColor=ffffff&fontSize=52&fontAlignY=35&desc=CS%20%40%20Rutgers%20%7C%20Software%20%26%20Product%20%7C%20AI%2FML%20%7C%20Data%20Engineering&descAlignY=58&animation=fadeIn" alt="Ameer Rahman profile banner" width="100%" />
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+full-stack+tools+with+real+workflows;Researching+quantum-inspired+computing+for+wireless;Shipping+software+products+end+to+end;Computer+Science+%40+Rutgers+University)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Profile Views](https://komarev.com/ghpvc/?username=ameer-rah&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS)](https://github.com/ameer-rah)
+[![GitHub followers](https://img.shields.io/github/followers/ameer-rah?style=for-the-badge&logo=github&color=111827&labelColor=0f172a)](https://github.com/ameer-rah?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ameer%20Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameer-rahman)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ameerrahman456@gmail.com)
+
+</div>
+
+---
+
+## 🎯 Mission Control
+
+I'm a Computer Science junior at **Rutgers University** (Class of 2027), minoring in Critical Intelligence Studies, focused on software engineering, product, AI/ML, and data engineering. I like building tools that actually get used: planning apps, automated pipelines, and systems that connect research to something practical.
+
+```yaml
+profile:
+  location: New York City
+  school: Rutgers University, CS Junior (2027), Minor in Critical Intelligence Studies
+  focus: software engineering, product management, AI/ML, data engineering
+  current_stack: [Python, TypeScript, Astro, LaTeX, Terraform-adjacent tooling]
+  research: quantum & quantum-inspired computing for wireless communications (MIMO detection, QUBO/Ising, simulated annealing)
+  operating_mode: ship practical projects, learn fast, keep it direct
+  open_to: SWE / PM / AI-ML / data engineering internships
+```
+
+---
+
+## 🚀 Systems I Build
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗺️ RUPlanner</h3>
+      <p>Full-stack academic planning tool for Rutgers students — course scheduling, degree tracking, and a clean user workflow built for real use, not just a demo.</p>
+      <p>
+        <a href="https://github.com/ameer-rah/ruplanner"><img src="https://img.shields.io/badge/Open%20Repo-RUPlanner-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Open RUPlanner repository" /></a><br/>
+        <img src="https://img.shields.io/github/last-commit/ameer-rah/ruplanner?style=flat-square&label=last%20commit&color=7c3aed" alt="RUPlanner last commit" />
+        <img src="https://img.shields.io/github/languages/top/ameer-rah/ruplanner?style=flat-square&color=0ea5e9" alt="RUPlanner top language" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Job Application Assistant</h3>
+      <p>Agentic tool that tailors resumes and cover letters end-to-end across roles, keeping formatting, tone, and content consistent at scale.</p>
+      <p>
+        <a href="https://github.com/ameer-rah/ai-job-application-assistant"><img src="https://img.shields.io/badge/Open%20Repo-Job%20App%20Assistant-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Open AI Job Application Assistant repository" /></a><br/>
+        <img src="https://img.shields.io/github/last-commit/ameer-rah/ai-job-application-assistant?style=flat-square&label=last%20commit&color=7c3aed" alt="AI Job Application Assistant last commit" />
+        <img src="https://img.shields.io/github/languages/top/ameer-rah/ai-job-application-assistant?style=flat-square&color=0ea5e9" alt="AI Job Application Assistant top language" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📋 Audit-Ready CMS</h3>
+      <p>Content management system built with enterprise and data-compliance workflows in mind — structured for teams that need traceability and clean audit trails.</p>
+      <p>
+        <a href="https://github.com/ameer-rah/audit-ready-cms"><img src="https://img.shields.io/badge/Open%20Repo-Audit--Ready%20CMS-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Open Audit-Ready CMS repository" /></a><br/>
+        <img src="https://img.shields.io/github/last-commit/ameer-rah/audit-ready-cms?style=flat-square&label=last%20commit&color=7c3aed" alt="Audit-Ready CMS last commit" />
+        <img src="https://img.shields.io/github/languages/top/ameer-rah/audit-ready-cms?style=flat-square&color=0ea5e9" alt="Audit-Ready CMS top language" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📡 File Transfer System</h3>
+      <p>Systems-level file transfer project focused on reliability and protocol-level correctness under real network conditions.</p>
+      <p>
+        <a href="https://github.com/ameer-rah/file-transfer-system"><img src="https://img.shields.io/badge/Open%20Repo-File%20Transfer-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Open File Transfer System repository" /></a><br/>
+        <img src="https://img.shields.io/github/last-commit/ameer-rah/file-transfer-system?style=flat-square&label=last%20commit&color=7c3aed" alt="File Transfer System last commit" />
+        <img src="https://img.shields.io/github/languages/top/ameer-rah/file-transfer-system?style=flat-square&color=0ea5e9" alt="File Transfer System top language" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Interactive Portfolio (ameer-rahman.info)</h3>
+      <p>RPG-style personal site — an Astro + TypeScript build with a playable canvas "realm" and a fully accessible, indexable static resume.</p>
+      <p>
+        <a href="https://github.com/ameer-rah/ameer-rahman-portfolio"><img src="https://img.shields.io/badge/Open%20Repo-Portfolio-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Open portfolio repository" /></a><br/>
+        <img src="https://img.shields.io/github/last-commit/ameer-rah/ameer-rahman-portfolio?style=flat-square&label=last%20commit&color=7c3aed" alt="Portfolio last commit" />
+        <img src="https://img.shields.io/github/languages/top/ameer-rah/ameer-rahman-portfolio?style=flat-square&color=0ea5e9" alt="Portfolio top language" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 Roblox Game Dev</h3>
+      <p>Building and monetizing games in Roblox Studio — Luau scripting, game economy design, and player retention mechanics.</p>
+      <p>
+        <a href="https://github.com/ameer-rah?tab=repositories"><img src="https://img.shields.io/badge/Open%20Repos-Roblox%20Projects-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Open Roblox project repositories" /></a><br/>
+        <img src="https://img.shields.io/badge/engine-Roblox%20Studio-7c3aed?style=flat-square" alt="Roblox Studio" />
+        <img src="https://img.shields.io/badge/language-Luau-0ea5e9?style=flat-square" alt="Luau" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧬 Current Research
+
+**Quantum & Quantum-Inspired Computing for Wireless Communications** — summer research covering MIMO detection, QUBO/Ising formulations, and simulated annealing, applying quantum-inspired optimization to signal processing problems.
+
+```yaml
+research_focus:
+  topic: MIMO detection via QUBO/Ising formulations
+  method: simulated annealing, quantum-inspired optimization
+  background: no prior signal processing experience — building it from the ground up
+```
+
+---
+
+## 🧰 Technology Radar
+
+<div align="center">
+
+### Languages & Core
+<img src="https://skillicons.dev/icons?i=python,typescript,java,cpp,latex&theme=dark" alt="Languages and core tools" />
+
+### Web & Product
+<img src="https://skillicons.dev/icons?i=astro,react,nextjs,html,css,tailwind&theme=dark" alt="Web and product tools" />
+
+### Data & Tools
+<img src="https://skillicons.dev/icons?i=git,vscode,figma,r&theme=dark" alt="Data and tools" />
+
+</div>
+
+---
+
+## 📊 GitHub Telemetry
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ameer-rah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Ameer Rahman GitHub stats" height="180" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ameer-rah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Ameer Rahman top languages" height="180" />
+
+<img src="https://streak-stats.demolab.com?user=ameer-rah&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Ameer Rahman GitHub streak" width="70%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ameer-rah&theme=tokyonight" alt="Ameer Rahman profile details and contribution timeline" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ameer-rah&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Signal" alt="Ameer Rahman contribution activity graph" width="100%" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ameer-rah/ameer-rah/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ameer-rah/ameer-rah/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ameer-rah/ameer-rah/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%" />
+</picture>
+
+</div>
+
+---
+
+## 🔭 Current Build Queue
+
+- 💼 Running a wide internship search across SWE, PM, AI/ML, and data engineering roles.
+- 🧬 Learning signal processing from scratch through quantum-inspired optimization research.
+- 🏃 Growing the Rutgers Run Club, which I founded and built to 40+ members.
+- 🎮 Iterating on Roblox projects — scripting, monetization, and player retention.
+
+---
+
+## 🧭 Operating Principles
+
+> Build things that work. Say what you mean. Ship, then improve.
+
+I'm working toward a role — software, product, or applied ML — where I can combine technical depth with judgment about what's actually worth building. The goal: keep shipping real projects, keep learning fast, keep it direct.
+
+---
+
+<div align="center">
+
+### 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ameer--rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameer-rahman)
+[![Email](https://img.shields.io/badge/Email-ameerrahman456%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ameerrahman456@gmail.com)
+[![Portfolio](https://img.shields.io/badge/GitHub-ameer--rah-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ameer-rah)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,50:7c3aed,100:0ea5e9" alt="Footer wave" width="100%" />
+
+</div>
