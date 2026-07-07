@@ -94,19 +94,6 @@ profile:
 
 ---
 
-## 🧬 Current Research
-
-**Quantum & Quantum-Inspired Computing for Wireless Communications** — summer research covering MIMO detection, QUBO/Ising formulations, and simulated annealing, applying quantum-inspired optimization to signal processing problems.
-
-```yaml
-research_focus:
-  topic: MIMO detection via QUBO/Ising formulations
-  method: simulated annealing, quantum-inspired optimization
-  background: no prior signal processing experience — building it from the ground up
-```
-
----
-
 ## 🧰 Technology Radar
 
 <div align="center">
