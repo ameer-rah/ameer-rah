@@ -120,8 +120,6 @@ profile:
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ameer-rah&theme=tokyonight" alt="Ameer Rahman profile details and contribution timeline" width="100%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ameer-rah&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Signal" alt="Ameer Rahman contribution activity graph" width="100%" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ameer-rah/ameer-rah/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ameer-rah/ameer-rah/output/github-contribution-grid-snake.svg" />
