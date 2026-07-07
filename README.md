@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0ea5e9,50:7c3aed,100:111827&text=Ameer%20Rahman&fontColor=ffffff&fontSize=52&fontAlignY=35&desc=CS%20%40%20Rutgers%20%7C%20Software%20%26%20Product%20%7C%20AI%2FML%20%7C%20Data%20Engineering&descAlignY=58&animation=fadeIn" alt="Ameer Rahman profile banner" width="100%" />
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+full-stack+tools+with+real+workflows;Shipping+software+products+end+to+end;Computer+Science+%40+Rutgers+University)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ameer-rah&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS)](https://github.com/ameer-rah)
@@ -15,7 +13,7 @@
 
 ## 🎯 Mission Control
 
-I'm a Computer Science junior at **Rutgers University** (Class of 2027), minoring in Critical Intelligence Studies, focused on software engineering, product, AI/ML, and data engineering. I like building tools that actually get used: planning apps, automated pipelines, and systems that connect research to something practical.
+I'm a Computer Science junior at **Rutgers University** (Class of 2027), minoring in Critical Intelligence Studies, focused on software engineering, product, and data engineering. I like building tools that actually get used: planning apps, automated pipelines, and systems that connect research to something practical.
 
 ```yaml
 profile:
