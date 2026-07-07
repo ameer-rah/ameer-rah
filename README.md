@@ -1,5 +1,7 @@
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+full-stack+tools+with+real+workflows;Shipping+software+products+end+to+end;Computer+Science+%40+Rutgers+University)](https://git.io/typing-svg)
+
 [![Profile Views](https://komarev.com/ghpvc/?username=ameer-rah&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS)](https://github.com/ameer-rah)
 [![GitHub followers](https://img.shields.io/github/followers/ameer-rah?style=for-the-badge&logo=github&color=111827&labelColor=0f172a)](https://github.com/ameer-rah?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ameer%20Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameer-rahman)
@@ -11,7 +13,7 @@
 
 ## 🎯 Mission Control
 
-I'm a Computer Science junior at **Rutgers University** (Class of 2027), minoring in Critical Intelligence Studies, focused on software engineering, product, and data engineering. I like building tools that actually get used: planning apps, automated pipelines, and systems that connect research to something practical.
+I'm a Computer Science junior at **Rutgers University** (Class of 2027), minoring in Critical Intelligence Studies, focused on software engineering, product, AI/ML, and data engineering. I like building tools that actually get used: planning apps, automated pipelines, and clean, practical systems.
 
 ```yaml
 profile:
@@ -135,7 +137,6 @@ profile:
 ## 🔭 Current Build Queue
 
 - 💼 Running a wide internship search across SWE, PM, AI/ML, and data engineering roles.
-- 🧬 Learning signal processing from scratch through quantum-inspired optimization research.
 - 🏃 Growing the Rutgers Run Club, which I founded and built to 40+ members.
 - 🩻 Applying computer vision to medical imaging classification tasks.
 
