@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0ea5e9,50:7c3aed,100:111827&text=Ameer%20Rahman&fontColor=ffffff&fontSize=52&fontAlignY=35&desc=CS%20%40%20Rutgers%20%7C%20Software%20%26%20Product%20%7C%20AI%2FML%20%7C%20Data%20Engineering&descAlignY=58&animation=fadeIn" alt="Ameer Rahman profile banner" width="100%" />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+full-stack+tools+with+real+workflows;Shipping+software+products+end+to+end;Computer+Science+%40+Rutgers+University)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ameer-rah&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS)](https://github.com/ameer-rah)
@@ -55,18 +57,18 @@ profile:
       <h3>📋 Audit-Ready CMS</h3>
       <p>Content management system built with enterprise and data-compliance workflows in mind — structured for teams that need traceability and clean audit trails.</p>
       <p>
-        <a href="https://github.com/ameer-rah/audit-ready-cms"><img src="https://img.shields.io/badge/Open%20Repo-Audit--Ready%20CMS-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Open Audit-Ready CMS repository" /></a><br/>
-        <img src="https://img.shields.io/github/last-commit/ameer-rah/audit-ready-cms?style=flat-square&label=last%20commit&color=7c3aed" alt="Audit-Ready CMS last commit" />
-        <img src="https://img.shields.io/github/languages/top/ameer-rah/audit-ready-cms?style=flat-square&color=0ea5e9" alt="Audit-Ready CMS top language" />
+        <a href="https://github.com/ameer-rah/Audit-Ready-Content-Management-System"><img src="https://img.shields.io/badge/Open%20Repo-Audit--Ready%20CMS-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Open Audit-Ready CMS repository" /></a><br/>
+        <img src="https://img.shields.io/github/last-commit/ameer-rah/Audit-Ready-Content-Management-System?style=flat-square&label=last%20commit&color=7c3aed" alt="Audit-Ready CMS last commit" />
+        <img src="https://img.shields.io/github/languages/top/ameer-rah/Audit-Ready-Content-Management-System?style=flat-square&color=0ea5e9" alt="Audit-Ready CMS top language" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📡 File Transfer System</h3>
-      <p>Systems-level file transfer project focused on reliability and protocol-level correctness under real network conditions.</p>
+      <h3>📡 Network Analyzer</h3>
+      <p>Tool for analyzing network traffic and protocol behavior, built for inspecting packet-level data and diagnosing connection issues.</p>
       <p>
-        <a href="https://github.com/ameer-rah/file-transfer-system"><img src="https://img.shields.io/badge/Open%20Repo-File%20Transfer-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Open File Transfer System repository" /></a><br/>
-        <img src="https://img.shields.io/github/last-commit/ameer-rah/file-transfer-system?style=flat-square&label=last%20commit&color=7c3aed" alt="File Transfer System last commit" />
-        <img src="https://img.shields.io/github/languages/top/ameer-rah/file-transfer-system?style=flat-square&color=0ea5e9" alt="File Transfer System top language" />
+        <a href="https://github.com/ameer-rah/Network-Analyzer"><img src="https://img.shields.io/badge/Open%20Repo-Network%20Analyzer-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Open Network Analyzer repository" /></a><br/>
+        <img src="https://img.shields.io/github/last-commit/ameer-rah/Network-Analyzer?style=flat-square&label=last%20commit&color=7c3aed" alt="Network Analyzer last commit" />
+        <img src="https://img.shields.io/github/languages/top/ameer-rah/Network-Analyzer?style=flat-square&color=0ea5e9" alt="Network Analyzer top language" />
       </p>
     </td>
   </tr>
@@ -75,9 +77,9 @@ profile:
       <h3>🌐 Interactive Portfolio (ameer-rahman.info)</h3>
       <p>RPG-style personal site — an Astro + TypeScript build with a playable canvas "realm" and a fully accessible, indexable static resume.</p>
       <p>
-        <a href="https://github.com/ameer-rah/ameer-rahman-portfolio"><img src="https://img.shields.io/badge/Open%20Repo-Portfolio-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Open portfolio repository" /></a><br/>
-        <img src="https://img.shields.io/github/last-commit/ameer-rah/ameer-rahman-portfolio?style=flat-square&label=last%20commit&color=7c3aed" alt="Portfolio last commit" />
-        <img src="https://img.shields.io/github/languages/top/ameer-rah/ameer-rahman-portfolio?style=flat-square&color=0ea5e9" alt="Portfolio top language" />
+        <a href="https://github.com/ameer-rah/portfolio"><img src="https://img.shields.io/badge/Open%20Repo-Portfolio-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Open portfolio repository" /></a><br/>
+        <img src="https://img.shields.io/github/last-commit/ameer-rah/portfolio?style=flat-square&label=last%20commit&color=7c3aed" alt="Portfolio last commit" />
+        <img src="https://img.shields.io/github/languages/top/ameer-rah/portfolio?style=flat-square&color=0ea5e9" alt="Portfolio top language" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -91,6 +93,19 @@ profile:
     </td>
   </tr>
 </table>
+
+---
+
+## 🧬 Current Research
+
+**Quantum & Quantum-Inspired Computing for Wireless Communications** — summer research covering MIMO detection, QUBO/Ising formulations, and simulated annealing, applying quantum-inspired optimization to signal processing problems.
+
+```yaml
+research_focus:
+  topic: MIMO detection via QUBO/Ising formulations
+  method: simulated annealing, quantum-inspired optimization
+  background: no prior signal processing experience — building it from the ground up
+```
 
 ---
 
