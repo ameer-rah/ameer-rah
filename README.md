@@ -115,9 +115,8 @@ profile:
 
 <div align="center">
 
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ameer-rah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Ameer Rahman GitHub stats" height="180" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ameer-rah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Ameer Rahman top languages" height="180" />
-
-<img src="https://streak-stats.demolab.com?user=ameer-rah&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Ameer Rahman GitHub streak" width="70%" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ameer-rah&theme=tokyonight" alt="Ameer Rahman profile details and contribution timeline" width="100%" />
 
