@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0ea5e9,50:7c3aed,100:111827&text=Ameer%20Rahman&fontColor=ffffff&fontSize=52&fontAlignY=35&desc=CS%20%40%20Rutgers%20%7C%20Software%20%26%20Product%20%7C%20AI%2FML%20%7C%20Data%20Engineering&descAlignY=58&animation=fadeIn" alt="Ameer Rahman profile banner" width="100%" />
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+full-stack+tools+with+real+workflows;Shipping+software+products+end+to+end;Computer+Science+%40+Rutgers+University)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ameer-rah&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS)](https://github.com/ameer-rah)
@@ -83,12 +81,12 @@ profile:
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎮 Roblox Game Dev</h3>
-      <p>Building and monetizing games in Roblox Studio — Luau scripting, game economy design, and player retention mechanics.</p>
+      <h3>🩻 Chest X-Ray Classifier</h3>
+      <p>Deep learning model for classifying chest X-ray images, applying computer vision techniques to a medical imaging diagnostic task.</p>
       <p>
-        <a href="https://github.com/ameer-rah?tab=repositories"><img src="https://img.shields.io/badge/Open%20Repos-Roblox%20Projects-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Open Roblox project repositories" /></a><br/>
-        <img src="https://img.shields.io/badge/engine-Roblox%20Studio-7c3aed?style=flat-square" alt="Roblox Studio" />
-        <img src="https://img.shields.io/badge/language-Luau-0ea5e9?style=flat-square" alt="Luau" />
+        <a href="https://github.com/ameer-rah/chest-xray-classifier"><img src="https://img.shields.io/badge/Open%20Repo-Chest%20X--Ray%20Classifier-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Open Chest X-Ray Classifier repository" /></a><br/>
+        <img src="https://img.shields.io/github/last-commit/ameer-rah/chest-xray-classifier?style=flat-square&label=last%20commit&color=7c3aed" alt="Chest X-Ray Classifier last commit" />
+        <img src="https://img.shields.io/github/languages/top/ameer-rah/chest-xray-classifier?style=flat-square&color=0ea5e9" alt="Chest X-Ray Classifier top language" />
       </p>
     </td>
   </tr>
@@ -154,7 +152,7 @@ research_focus:
 - 💼 Running a wide internship search across SWE, PM, AI/ML, and data engineering roles.
 - 🧬 Learning signal processing from scratch through quantum-inspired optimization research.
 - 🏃 Growing the Rutgers Run Club, which I founded and built to 40+ members.
-- 🎮 Iterating on Roblox projects — scripting, monetization, and player retention.
+- 🩻 Applying computer vision to medical imaging classification tasks.
 
 ---
 
