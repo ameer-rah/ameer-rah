@@ -35,15 +35,3 @@ profile:
 </picture>
 
 </div>
-
----
-
-<div align="center">
-
-### Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ameer--rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameer-rahman)
-[![Email](https://img.shields.io/badge/Email-ameerrahman456%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ameerrahman456@gmail.com)
-[![Portfolio](https://img.shields.io/badge/GitHub-ameer--rah-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ameer-rah)
-
-</div>
