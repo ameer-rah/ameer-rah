@@ -22,7 +22,7 @@ profile:
   focus: software engineering, product management, data engineering
   current_stack: [Python, TypeScript, Java, C]
   operating_mode: ship practical projects, learn fast, keep it direct
-  open_to: SWE / PM / data engineering internships
+  open_to: SWE / PM / DATA ENGINEERING
 ```
 
 ---
@@ -96,8 +96,6 @@ profile:
 
 ## 📊 GitHub Telemetry
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ameer-rah&theme=tokyonight" alt="Ameer Rahman profile details and contribution timeline" width="100%" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ameer-rah/ameer-rah/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ameer-rah/ameer-rah/output/github-contribution-grid-snake.svg" />
@@ -118,7 +116,7 @@ I'm working toward a role — software, product, or applied ML — where I can c
 
 <div align="center">
 
-### 🤝 Connect
+### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ameer--rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameer-rahman)
 [![Email](https://img.shields.io/badge/Email-ameerrahman456%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ameerrahman456@gmail.com)
