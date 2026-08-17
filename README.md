@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+full-stack+tools+with+real+workflows;Shipping+software+products+end+to+end;Computer+Science+%40+Rutgers+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Shipping+software+products+end+to+end;Computer+Science+%40+Rutgers+University)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ameer-rah&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS)](https://github.com/ameer-rah)
 [![GitHub followers](https://img.shields.io/github/followers/ameer-rah?style=for-the-badge&logo=github&color=111827&labelColor=0f172a)](https://github.com/ameer-rah?tab=followers)
