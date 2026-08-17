@@ -106,14 +106,6 @@ profile:
 
 ---
 
-## 🧭 Operating Principles
-
-> Build things that work. Say what you mean. Ship, then improve.
-
-I'm working toward a role — software, product, or applied ML — where I can combine technical depth with judgment about what's actually worth building. The goal: keep shipping real projects, keep learning fast, keep it direct.
-
----
-
 <div align="center">
 
 ### Connect
