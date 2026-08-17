@@ -114,6 +114,4 @@ profile:
 [![Email](https://img.shields.io/badge/Email-ameerrahman456%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ameerrahman456@gmail.com)
 [![Portfolio](https://img.shields.io/badge/GitHub-ameer--rah-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ameer-rah)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,50:7c3aed,100:0ea5e9" alt="Footer wave" width="100%" />
-
 </div>
