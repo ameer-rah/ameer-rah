@@ -13,12 +13,12 @@
 
 ## Mission Control
 
-I'm a Computer Science junior at **Rutgers University** (Class of 2027), minoring in Critical Intelligence Studies, focused on software engineering, product, AI/ML, and data engineering. I like building tools that actually get used: planning apps, automated pipelines, and clean, practical systems.
+I'm a Computer Science senior at **Rutgers University** (Class of 2027), minoring in Critical Intelligence Studies, focused on software engineering, product, AI/ML, and data engineering. I like building tools that actually get used: planning apps, automated pipelines, and clean, practical systems.
 
 ```yaml
 profile:
   location: New York City
-  school: Rutgers University, CS Junior (2027), Minor in Critical Intelligence Studies
+  school: Rutgers University, CS Senior (2027), Minor in Critical Intelligence Studies
   focus: software engineering, product management, data engineering
   current_stack: [Python, TypeScript, Java, C]
   operating_mode: ship practical projects, learn fast, keep it direct
