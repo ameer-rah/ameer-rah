@@ -11,7 +11,7 @@
 
 ---
 
-## 🎯 Mission Control
+## Mission Control
 
 I'm a Computer Science junior at **Rutgers University** (Class of 2027), minoring in Critical Intelligence Studies, focused on software engineering, product, AI/ML, and data engineering. I like building tools that actually get used: planning apps, automated pipelines, and clean, practical systems.
 
@@ -26,7 +26,7 @@ profile:
 ```
 ---
 
-## 📊 GitHub Telemetry
+## Telemetry
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ameer-rah/ameer-rah/output/github-contribution-grid-snake-dark.svg" />
