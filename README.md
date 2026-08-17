@@ -108,14 +108,6 @@ profile:
 
 ---
 
-## 🔭 Current Build Queue
-
-- 💼 Running a wide internship search across SWE, PM, AI/ML, and data engineering roles.
-- 🏃 Growing the Rutgers Run Club, which I founded and built to 40+ members.
-- 🩻 Applying computer vision to medical imaging classification tasks.
-
----
-
 ## 🧭 Operating Principles
 
 > Build things that work. Say what you mean. Ship, then improve.
