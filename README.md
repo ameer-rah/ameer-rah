@@ -94,23 +94,6 @@ profile:
 
 ---
 
-## 🧰 Technology Radar
-
-<div align="center">
-
-### Languages & Core
-<img src="https://skillicons.dev/icons?i=python,typescript,java,cpp,latex&theme=dark" alt="Languages and core tools" />
-
-### Web & Product
-<img src="https://skillicons.dev/icons?i=astro,react,nextjs,html,css,tailwind&theme=dark" alt="Web and product tools" />
-
-### Data & Tools
-<img src="https://skillicons.dev/icons?i=git,vscode,figma,r&theme=dark" alt="Data and tools" />
-
-</div>
-
----
-
 ## 📊 GitHub Telemetry
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ameer-rah&theme=tokyonight" alt="Ameer Rahman profile details and contribution timeline" width="100%" />
