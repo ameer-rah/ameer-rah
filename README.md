@@ -21,7 +21,6 @@ profile:
   school: Rutgers University, CS Senior (2027), Minor in Critical Intelligence Studies
   focus: software engineering, product management, data engineering
   current_stack: [Python, TypeScript, Java, C]
-  operating_mode: ship practical projects, learn fast, keep it direct
   open_to: SWE / PM / DATA ENGINEERING
 ```
 ---
