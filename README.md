@@ -11,7 +11,7 @@
 
 ---
 
-## Mission Control
+## About Me
 
 I'm a Computer Science senior at **Rutgers University** (Class of 2027), minoring in Critical Intelligence Studies, focused on software engineering, product, and data engineering. I like building tools that actually get used: planning apps, automated pipelines, and clean, practical systems.
 
