@@ -19,9 +19,9 @@ I'm a Computer Science senior at **Rutgers University** (Class of 2027), minorin
 profile:
   location: New York City
   school: Rutgers University, CS Senior (2027), Minor in Critical Intelligence Studies
-  focus: software engineering, product management, data engineering
+  focus: software engineering, data engineering
   current_stack: [Python, TypeScript, Java, C]
-  open_to: SWE / PM / DATA ENGINEERING
+  open_to: SWE / DATA ENGINEERING
 ```
 ---
 
